@@ -5,7 +5,7 @@
 
 SELECT * FROM -- wybierz z ...
 
-"przykladowa_tabela" -- wybieramy z tabeli "wstaw swoją nazwę tabeli"
+"przykladowa_tabela" -- wybieramy z tabeli "przykladowa_tabela"
 
 WHERE -- zapytanie warunkowe
 
