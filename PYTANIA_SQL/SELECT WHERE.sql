@@ -12,3 +12,15 @@ SELECT * FROM -- wybierz z ...
 WHERE -- zapytanie warunkowe
 
 "xyz" = 'aaa' -- warunek, który sprawdza, czy kolumna "xyz" ma wartość 'aaa'
+
+---------------- PRZYKŁAD UŻYCIA ----------------
+
+SELECT * FROM -- wybierz z ...
+
+FROM -- z tabeli ...
+
+"UŻYTKI_GRUNTOWE" -- nazwa tabeli "UŻYTKI_GRUNTOWE"
+
+WHERE -- dodaj warunek, aby filtrować dane
+
+"UŻYTEK" = 'rolniczy'; -- warunek, który sprawdza, czy kolumna "UŻYTEK" ma wartość 'rolniczy'
